@@ -1,0 +1,11 @@
+{
+  "name": "Homework_007",
+  "version": "1.0.0",
+  "description": "JS OOP test",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
