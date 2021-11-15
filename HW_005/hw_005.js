@@ -85,7 +85,6 @@ function Homework_005() {
             }
 
             tasksFunctions[taskPointer](tasksData[taskPointer]);
-
             ++taskPointer;
         }
     })();

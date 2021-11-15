@@ -85,6 +85,5 @@ while (taskPointer < tasksData.length) {
     }
 
     tasksFunctions[taskPointer](tasksData[taskPointer].slice(1));
-
     ++taskPointer;
 }
