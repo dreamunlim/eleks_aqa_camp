@@ -1,0 +1,13 @@
+{
+  "name": "Homework_010",
+  "version": "1.0.0",
+  "description": "HW_010 Task1",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "randomstring": "^1.2.1"
+  },
+  "scripts": {}
+}
