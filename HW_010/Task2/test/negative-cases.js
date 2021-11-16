@@ -28,4 +28,8 @@ describe("Negative cases test suit", () => {
     it(`${++caseNum}) calc(5, 0, "/") should throw Error`, () => {
         expect(() => calc(5, 0, "/")).to.throw();
     })
+
+    it(`${++caseNum}) calc(3, 4, "*", "potato") should return 12`, () => {
+        expect(calc(3, 4, "*", "potato")).to.equal(12);
+    })
 })
